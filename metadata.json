@@ -1,0 +1,5 @@
+{
+  "name": "GST Reconciler Pro",
+  "description": "A professional tool for reconciling GST Purchase Register (Books) with GSTR-2B (Portal) data, featuring automated matching and discrepancy analysis.",
+  "requestFramePermissions": []
+}
